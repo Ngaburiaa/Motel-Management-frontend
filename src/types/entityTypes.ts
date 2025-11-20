@@ -1,0 +1,1 @@
+export type TAddressEntity = 'user'|  'hotel' | 'owner' | 'admin';

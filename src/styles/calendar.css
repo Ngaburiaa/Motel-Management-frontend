@@ -1,0 +1,13 @@
+.custom-calendar .rdp {
+  --rdp-accent-color: #1d4ed8;
+  --rdp-background-color: #eff6ff;
+  --rdp-hover-color: #93c5fd;
+  font-family: 'Inter', sans-serif;
+  color: #1e293b;
+}
+
+.custom-calendar .rdp-day_selected,
+.custom-calendar .rdp-day_range_middle {
+  background-color: #1d4ed8;
+  color: white;
+}
