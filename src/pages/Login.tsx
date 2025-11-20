@@ -62,7 +62,7 @@ export const Login = () => {
       <div className="w-full max-w-md bg-base-100/90 backdrop-blur-md shadow-xl border border-base-200 rounded-2xl p-10 animate-fade-in">
         <div className="text-center mb-6">
           <h1 className="text-4xl font-heading font-bold text-base-content tracking-tight">
-            Stay<span className="text-gold">Cloud</span>
+            Vil<span className="text-gold">las</span>
           </h1>
           <p className="text-sm text-muted mt-1">Sign in to continue</p>
         </div>

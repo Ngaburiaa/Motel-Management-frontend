@@ -86,7 +86,7 @@ export const Register = () => {
           {/* Left Side */}
           <div className="flex flex-col justify-center text-center md:text-left">
             <h1 className="text-5xl font-heading font-bold text-white mb-2">
-              StayCloud
+              VILLAS
             </h1>
             <p className="text-sm text-muted text-white mb-6">
               Register now and begin your luxurious escape.
