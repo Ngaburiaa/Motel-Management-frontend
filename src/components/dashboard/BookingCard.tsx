@@ -145,13 +145,13 @@ export const BookingCard = () => {
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4 text-blue-600" />
-                <span>{upcomingBooking?.room?.roomType?.name?.toString() ?? "StayCloud"}</span>
+                <span>{upcomingBooking?.room?.roomType?.name?.toString() ?? "Villas"}</span>
               </div>
             </div>
           ) : (
             <div className="space-y-2 text-sm text-blue-800">
               <div className="flex justify-between">
-                <span className="font-medium">{randomRoom?.roomType?.name?.toString() ?? "StayCloud"}</span>
+                <span className="font-medium">{randomRoom?.roomType?.name?.toString() ?? "Villas"}</span>
                 <span className="font-semibold text-blue-900">
                   ${Number(randomRoom?.pricePerNight).toFixed(2)} / night
                 </span>
